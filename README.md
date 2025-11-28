@@ -1,1 +1,1 @@
-Make small feature using radial gradient. 
+Create spot light effect using radial gradient and mousemove event.
