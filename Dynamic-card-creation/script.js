@@ -31,18 +31,12 @@ form.addEventListener("submit", function (e) {
 
   form.reset();
 
-
-
-  icon.addEventListener("click", function(){
-     card.remove()
-  })
-
+  icon.addEventListener("click", function () {
+    card.remove();
+  });
 });
 
-
-
-
-// creat a card
-// delete the card manually✅
-// add to the local storage
-// add a close icon in card ✅
+// 1. creat a card ✅
+// 2. delete the card manually✅
+// 3. add to the local storage
+// 4. add a close icon in card ✅
